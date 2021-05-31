@@ -1,4 +1,2 @@
 Oi! Eu sou o Bobby. Estou aqui há um tempo.
-Fazendo uma nova mudança.
-Teste cherry-picking.
-Nova mudança.
+Teste de amend.
