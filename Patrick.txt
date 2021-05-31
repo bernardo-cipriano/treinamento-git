@@ -1,2 +1,2 @@
 Não, aqui é o Patrick.
-Teste de rebase.
+Conflito resolvido.
